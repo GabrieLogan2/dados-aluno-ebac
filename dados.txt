@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Gabriel Logan
+-Profissão: Em busca
+-Cidade: Paulista, PE
+-O que faz nas horas vaga: Costumo ler, jogar, ouvir músicas, estudar, sair para comer e ver um bom jogo de basquete.
+-Feedback sobre o curso Qualidade de Software: Gostando muito, mas desaprovo os cursos que estão com versões desatualizadas das ferramentas, mas num todo bom curso até o momento.
+-Feedback sobre a plataforma de estudo da EBAC: 10!
 
 Obrigado!!!
-
-
